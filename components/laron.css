@@ -1,0 +1,30 @@
+.laron-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.laron-functionality {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.laron-image {
+  width: 200px;
+  object-fit: cover;
+}
+.laron-fragment1 {
+  display: contents;
+}
+.laron-text3 {
+  display: inline-block;
+}
+.laron-fragment2 {
+  display: contents;
+}
+.laron-text4 {
+  display: inline-block;
+}
